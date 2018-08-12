@@ -80,7 +80,7 @@ class Calc extends Component {
                 <div>
                     Result:<span>{this.state.res}</span>
                     </div>
-                <p>Каккой-то текст</p>
+                <p></p>
             </div>
         )
     }
